@@ -554,7 +554,7 @@ div.backstretch img {
     height: auto;
     position: fixed;
     overflow: hidden;
-    background: transparent url(../images/patterns/overlay-pattern.png) repeat;
+    background: transparent url(/images/patterns/overlay-pattern.png) repeat;
 }
 
 /* 3.3 list
